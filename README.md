@@ -38,7 +38,7 @@ Encoder is composed of residual block, super resolution block and CBAM(Convoluti
  |0.276|10.413|14.911|0.354|
  
  ##### Accuracy
- |delta < 1.25|delta < 1.25**2|delta < 1.25**3|
+ |delta < 1.25|delta < 1.25^2|delta < 1.25^3|
  |-|-|-|
  |0.735|0.874|0.929|
  
